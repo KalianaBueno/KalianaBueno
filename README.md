@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Kah!
 
 - 🎓 Cursando Sistemas para Internet na FIAP
-- 💻 Atualmente estudando front-end
+
 
 <div align="center">
   <a href="https://github.com/KalianaBueno">
