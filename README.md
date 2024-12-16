@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Kah!
 
-- 🎓 Cursando Sistemas para Internet na FIAP
+- 🎓 Formação: Sistemas para Internet na FIAP
 
 
 <div align="center">
