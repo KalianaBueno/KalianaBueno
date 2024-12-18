@@ -1,6 +1,8 @@
 ### Olá! Eu sou a Kah!
 
 - 🎓 Formação: Sistemas para Internet na FIAP
+- Cursando Front-end Developer - Mate Academy
+- Cursando Web Development Bootcamp - Angela Yu
 
 
 <div align="center">
