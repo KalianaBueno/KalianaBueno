@@ -7,10 +7,10 @@
 
 
 <div align="center">
-  <a href="https://github.com/KalianaBueno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KalianaBueno&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalianaBueno&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KalianaBueno&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalianaBueno&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
+
 
 ##
 
