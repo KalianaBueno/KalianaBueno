@@ -6,9 +6,14 @@
 ##
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalianaBueno&layout=compact&langs_count=6&theme=github_dark"/>
-</div>
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
 
 
 
